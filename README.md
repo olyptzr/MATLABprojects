@@ -4,7 +4,7 @@ This repository features 6 comprehensive projects focusing on the implementation
 
 ---
 
-## 🚀 Projects Overview
+## Projects Overview
 
 ### 1. Advanced Data Preprocessing Toolkit
 * **Core Task:** Developed a robust pipeline for cleaning and normalizing sensor and physics data.
@@ -38,7 +38,7 @@ This repository features 6 comprehensive projects focusing on the implementation
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 ### Main Scripts (Run these)
 * **`exercise_1_preprocessing.m`**: Data cleaning, outlier detection (IQR), and scaling (Z-score/Min-Max).
